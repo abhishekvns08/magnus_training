@@ -1,0 +1,4 @@
+This is my first commit
+This is amend commit option
+this is another amend commit
+this sqiwhqwj   d
